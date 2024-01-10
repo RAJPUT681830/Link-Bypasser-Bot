@@ -63,3 +63,4 @@ To see the list of supported sites see [texts.py](https://github.com/bipinkrish/
    <br>
 
    ![](https://i.ibb.co/hHBZM5m/Screenshot-113.png)
+## deploying on heroku
